@@ -1,0 +1,10 @@
+a=int(input('enter value'))
+b=int(input('enter value'))
+if(a>=b):
+  print('a is greatest')
+else:
+  print('b is greatest')
+  
+  
+  enter value4
+  a is greatest
